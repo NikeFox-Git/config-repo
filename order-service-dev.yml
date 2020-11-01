@@ -16,3 +16,4 @@ eureka:
 
 # 自定义配置
 name: order-service-dev-v7.0
+password: '{cipher}d6f280701f74bb398b81d4a44900e588e95ec9cc03d2bd266f27cf6139972664'
